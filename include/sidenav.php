@@ -1,6 +1,6 @@
 <?php session_start();?>
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-  <a class="navbar-brand" href="Dashboard.php">Inventory Management</a> <span><?php echo "HI," . $_SESSION['username'] . " ";?></span>
+  <a class="navbar-brand" href="Dashboard.php">Event Management</a> <span><?php echo "HI," . $_SESSION['username'] . " ";?></span>
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -38,7 +38,7 @@
       <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
         <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseProductComponents" data-parent="#exampleAccordion">
           <i class="fa fa-fw fa-dropbox"></i>
-          <span class="nav-link-text">Products</span>
+          <span class="nav-link-text">Events</span>
         </a>
         <ul class="sidenav-second-level collapse" id="collapseProductComponents">
           <li>

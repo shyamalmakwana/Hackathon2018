@@ -3,7 +3,7 @@
 <html lang="en">
 
 <?php require 'include/headerandfooter/header.php'; ?>
-<title>Inventory Management</title>
+<title>Event Management</title>
 
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
   <!-- Navigation-->
