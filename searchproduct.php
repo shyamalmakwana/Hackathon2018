@@ -19,7 +19,7 @@
       <div class="card mb-3">
         <div class="card-header">
           <!-- <i class="fa fa-area-chart"></i> -->
-           Enter Product To search
+           Enter Event To search
         </div>
         <div class="card-body">
           <form action="function/login.php" method="post">
@@ -50,4 +50,3 @@
     <!-- /.container-fluid-->
     <!-- /.content-wrapper-->
           <?php require 'include/headerandfooter/footer.php'?>
-          

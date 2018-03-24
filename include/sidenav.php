@@ -42,14 +42,14 @@
         </a>
         <ul class="sidenav-second-level collapse" id="collapseProductComponents">
           <li>
-            <a href="addproduct.php">Add Products</a>
+            <a href="cards.html">View Events</a>
           </li>
           <li>
-            <a href="searchproduct.php">Search Products</a>
+            <a href="searchproduct.php">Search Events</a>
           </li>
         </ul>
       </li>
-      <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
+      <!-- <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Components">
         <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseComponents" data-parent="#exampleAccordion">
           <i class="fa fa-fw fa-wrench"></i>
           <span class="nav-link-text">Clients</span>
@@ -62,8 +62,8 @@
             <a href="searchclient.php">Search client</a>
           </li>
         </ul>
-      </li>
-      <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
+      </li> -->
+      <!-- <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Example Pages">
         <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseExamplePages" data-parent="#exampleAccordion">
           <i class="fa fa-fw fa-file"></i>
           <span class="nav-link-text">Example Pages</span>
@@ -82,8 +82,8 @@
             <a href="blank.html">Blank Page</a>
           </li>
         </ul>
-      </li>
-      <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Menu Levels">
+      </li> -->
+      <!-- <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Menu Levels">
         <a class="nav-link nav-link-collapse collapsed" data-toggle="collapse" href="#collapseMulti" data-parent="#exampleAccordion">
           <i class="fa fa-fw fa-sitemap"></i>
           <span class="nav-link-text">Menu Levels</span>
@@ -113,13 +113,13 @@
             </ul>
           </li>
         </ul>
-      </li>
-      <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Link">
+      </li> -->
+      <!-- <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Link">
         <a class="nav-link" href="#">
           <i class="fa fa-fw fa-link"></i>
           <span class="nav-link-text">Link</span>
         </a>
-      </li>
+      </li> -->
     </ul>
     <ul class="navbar-nav sidenav-toggler">
       <li class="nav-item">
